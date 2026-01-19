@@ -15,7 +15,7 @@ city_entry.pack(pady = 10)
 
 
 #your api key
-api_key = "2e36dd0ff3fd44a5b32102012261901"
+api_key = "your api"
 
 
 
@@ -40,4 +40,5 @@ tk.Button(root, text = " Get Weather", command=main_function, width=10,height=2)
 
 
 #loop of window
+
 root.mainloop()
